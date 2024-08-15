@@ -1,5 +1,6 @@
-h1 {
-  color: #a869ff;
-  font-family: cursive;
-}
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
 /*# sourceMappingURL=index.4d663569.css.map */
